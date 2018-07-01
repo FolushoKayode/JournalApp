@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="add_journal_activity_name">Add a New Journal</string>
+
+    <!-- Strings for MainActivity -->
+
+    <string name="content_description">Journal Image</string>
+
+    <!-- Label for overflow menu option that logs out the app [CHAR LIMIT=20] -->
+    <string name="action_signout">Signout</string>
+
+    <!-- Label for savemenu option to save journal and exit[CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for journal entry-->
+    <string name="edit_journal_entry">Enter Journal Entry...&#8230;</string>
+
+    <!-- Label for journal title-->
+    <string name="edit_journal_title">Enter Journal Title...&#8230;</string>
+</resources>
